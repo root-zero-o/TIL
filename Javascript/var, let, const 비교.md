@@ -87,6 +87,6 @@ let b;
 
 
 #### 참고사이트
-https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/
-https://velog.io/@bathingape/JavaScript-var-let-const-%EC%B0%A8%EC%9D%B4%EC%A0%90
-https://gist.github.com/LeoHeo/7c2a2a6dbcf80becaaa1e61e90091e5d
+- https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/
+- https://velog.io/@bathingape/JavaScript-var-let-const-%EC%B0%A8%EC%9D%B4%EC%A0%90
+- https://gist.github.com/LeoHeo/7c2a2a6dbcf80becaaa1e61e90091e5d
