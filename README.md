@@ -10,4 +10,4 @@
 
 
 ## Flask
-- [static 파일 적용하기](https://github.com/yyeonggg/TIL/blob/master/Flask/static%20%ED%8C%8C%EC%9D%BC%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+- [url_for 함수](https://github.com/yyeonggg/TIL/blob/master/Flask/url_for%20%ED%95%A8%EC%88%98.md)
