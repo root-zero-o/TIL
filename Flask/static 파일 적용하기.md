@@ -1,4 +1,4 @@
-## Flask - Static 파일 적용하기
+### Static 파일 적용하기
 
 static 폴더 안의 JS, CSS 파일 적용하기
 
