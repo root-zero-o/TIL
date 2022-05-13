@@ -9,6 +9,7 @@
 - [함수선언식 vs 함수표현식](https://github.com/yyeonggg/TIL/blob/master/Javascript/%ED%95%A8%EC%88%98%EC%84%A0%EC%96%B8%EC%8B%9D%20vs%20%ED%95%A8%EC%88%98%ED%91%9C%ED%98%84%EC%8B%9D.md)
 - [Rest 파라미터](https://github.com/yyeonggg/TIL/blob/master/Javascript/Rest%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0.md)
 - [기본 파라미터(Default Parameter)](https://github.com/yyeonggg/TIL/blob/master/Javascript/%EA%B8%B0%EB%B3%B8%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0.md)
+- [Repeat() 함수](https://github.com/yyeonggg/TIL/blob/master/Javascript/repeat().md)
 
 
 ## Flask
