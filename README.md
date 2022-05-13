@@ -14,6 +14,7 @@
 - [Math.max(), Math.min()](https://github.com/yyeonggg/TIL/blob/master/Javascript/Math.max(),Math.min().md)
 - [올림, 내림, 반올림](https://github.com/yyeonggg/TIL/blob/master/Javascript/Math.ceil-floor-round.md)
 - [isNaN()함수로 문자열이 숫자인지 체크하기](https://github.com/yyeonggg/TIL/blob/master/Javascript/isNaN().md)
+- [parseFloat(), parseInt() 함수로 문자열을 수로 바꾸기](https://github.com/yyeonggg/TIL/new/master)
 
 
 ## Flask
