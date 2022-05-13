@@ -10,6 +10,7 @@
 - [Rest 파라미터](https://github.com/yyeonggg/TIL/blob/master/Javascript/Rest%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0.md)
 - [기본 파라미터(Default Parameter)](https://github.com/yyeonggg/TIL/blob/master/Javascript/%EA%B8%B0%EB%B3%B8%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0.md)
 - [Repeat() 함수](https://github.com/yyeonggg/TIL/blob/master/Javascript/repeat().md)
+- [문자열에서 문자 가져오기](https://github.com/yyeonggg/TIL/blob/master/javascript/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C%20%EB%AC%B8%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
 
 
 ## Flask
