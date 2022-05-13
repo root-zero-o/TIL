@@ -12,6 +12,7 @@
 - [Repeat() 함수](https://github.com/yyeonggg/TIL/blob/master/Javascript/repeat().md)
 - [문자열에서 문자 가져오기](https://github.com/yyeonggg/TIL/blob/master/javascript/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C%20%EB%AC%B8%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
 - [Math.max(), Math.min()](https://github.com/yyeonggg/TIL/blob/master/Javascript/Math.max(),Math.min().md)
+- [올림, 내림, 반올림](https://github.com/yyeonggg/TIL/blob/master/Javascript/Math.ceil-floor-round.md)
 
 
 ## Flask
