@@ -6,6 +6,7 @@ isNaN(value)
 ```
 - 파라미터 : 테스트할 값 입력
 - 리턴값 : 파라미터가 숫자가 아닐 경우(```NaN```) true, 숫자일 경우 false 리턴
+<br>
 *typeOf로는 Number와 NaN을 구분할 수 없음*
 
 ### 예제
