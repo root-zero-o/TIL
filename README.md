@@ -19,7 +19,7 @@
 - [Callback 함수](https://github.com/yyeonggg/TIL/blob/master/Javascript/Callback%ED%95%A8%EC%88%98.md)
 - [filter() 함수](https://github.com/yyeonggg/TIL/blob/master/Javascript/filter()%ED%95%A8%EC%88%98.md)
 - [reduce() 함수](https://github.com/yyeonggg/TIL/blob/master/Javascript/reduce()%ED%95%A8%EC%88%98.md)
-- [addEventListener() 함수](https://github.com/yyeonggg/TIL/blob/master/Javascript/addEventListener.md)
+- [addEventListener()](https://github.com/yyeonggg/TIL/blob/master/Javascript/addEventListener.md)
 - [querySelector()](https://github.com/yyeonggg/TIL/blob/master/Javascript/querySelector().md)
 
 ## Flask
