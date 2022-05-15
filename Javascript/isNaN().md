@@ -1,6 +1,6 @@
-## ```isNaN()```함수로 문자열이 숫자인지 체크하기
+# ```isNaN()```함수로 문자열이 숫자인지 체크하기
 
-### 구문
+## 1. 구문
 ```javascript
 isNaN(value)
 ```
@@ -9,7 +9,7 @@ isNaN(value)
    
 *(typeOf로는 Number와 NaN을 구분할 수 없음)*
 
-### 예제
+## 2. 예제
 ```javascript
 console.log(isNaN(123)); // false
 console.log(isNaN(-22)); // false
@@ -20,6 +20,6 @@ console.log(isNaN()); // true
 console.log(isNaN(null)); // true
 ```
 
-### 참고
+## 참고
 - https://hianna.tistory.com/385
 - https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/isNaN
