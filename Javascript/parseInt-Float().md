@@ -1,6 +1,6 @@
-## ```parseInt()```,```parseFloat()```함수로 문자열을 수로 바꾸기
+# ```parseInt()```,```parseFloat()```함수로 문자열을 수로 바꾸기
 
-### 1. ```parseFloat()```함수
+## 1. ```parseFloat()```함수
 ```javascript
 parseFloat(string)
 ```
@@ -16,7 +16,7 @@ console.log(parseFloat('3.14어쩌고저쩌고')); // 3.14
 
 console.log(parseFloat('FF2')); // NaN
 ```
-### 2.```parseInt()```함수
+## 2.```parseInt()```함수
 ```javascript
 parseInt(string, n) 
 ```
@@ -27,7 +27,7 @@ string을 n진법일 때의 값으로 바꿈(n은 옵션, 입력하지 않으면
 *파싱(parsing) :  어떤 페이지(문서,html등)에서 내가 원하는 데이터를 특정 패턴이나 순서로 추출해 가공하는 것*
 *파싱을 수행하는 프로그램은 파서(parser)라고 부름*
 
-### 참고
+## 참고
 - [파싱이란?](https://www.scienceall.com/%ED%8C%8C%EC%8B%B1parsing/)
 - https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/parseFloat
 - https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/parseInt
