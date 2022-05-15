@@ -1,7 +1,7 @@
 # TIL
-🍅 Today I Learned
+### 🍅 Today I Learned
 
-배운 것들을 정리하고 기록합니다.
+### 배운 것들을 정리하고 기록합니다.
 
 ## Javascript
 - [🤷‍♂️헷갈리는 연산자(Operators) 모음](https://github.com/yyeonggg/TIL/blob/master/Javascript/operators.md)
