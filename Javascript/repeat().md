@@ -1,4 +1,4 @@
-## ```Repeat()``` 함수
+# ```Repeat()```
 ```javascript
 str.repeat(count);
 ```
@@ -6,7 +6,7 @@ str.repeat(count);
 - 문자열을 반복한 값을 ```repeat()```함수로 반복문을 사용해 반환 가능
 - 반복 횟수인 ```count```는 양의 정수여야 함
 
-### 예시
+## 예시
 ```Javascript
 'abc'.repeat(-1); // RangeError
 'abc'.repeat(0); // ''
@@ -17,5 +17,5 @@ str.repeat(count);
 ```
 
 
-### 참고
+## 참고
 - https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/repeat
