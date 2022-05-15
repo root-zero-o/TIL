@@ -1,5 +1,5 @@
-# reduce() 함수
-## 1. ```reduce()``` 함수란?
+# reduce()
+## 1. ```reduce()```란?
 ```arr.reduce(callback[, initialValue])```<br><br>
 ```reduce()```는 빈 요소를 제외하고 배열 내에 존재하는 각 요소에 대해 ```callback```함수를 한 번식 실행
 -  ```callback``` : 배열의 각 요소에 대해 실행할 함수
