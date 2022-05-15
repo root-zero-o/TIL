@@ -1,6 +1,6 @@
-## Math.max(), Math.min()
+# Math.max(), Math.min()
 
-### ```Math.max()```, ```Math.min()```
+## ```Math.max()```, ```Math.min()```
 - ```Math.max()``` : 입력 값으로 받은 0개 이상의 숫자 중 가장 큰 숫자를 반환함
 - ```Math.min()``` : 입력 값으로 받은 0개 이상의 숫자 중 가장 작은 숫자를 반환함
 
@@ -16,6 +16,6 @@ var x = 10, y = -20;
 var z = Math.min(x, y);
 console.log(z); // -20
 ```
-### 참고
+## 참고
 - https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Math/min
 - https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Math/max
