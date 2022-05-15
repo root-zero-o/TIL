@@ -25,6 +25,7 @@
 - [querySelector()](https://github.com/yyeonggg/TIL/blob/master/Javascript/querySelector().md)
 - [preventDefault(), stopPropagation()](https://github.com/yyeonggg/TIL/blob/master/Javascript/preventDefault()_stopPropagation().md)
 - [이벤트 버블링과 캡처링](https://github.com/yyeonggg/TIL/blob/master/Javascript/bubbling_capturing.md)
+- [웹 스토리지](https://github.com/yyeonggg/TIL/blob/master/Javascript/webStorage.md)
 
 ## Flask
 - [url_for 함수](https://github.com/yyeonggg/TIL/blob/master/Flask/url_for%20%ED%95%A8%EC%88%98.md)
