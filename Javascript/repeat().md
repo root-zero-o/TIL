@@ -1,4 +1,4 @@
-# ```Repeat()```
+# Repeat()
 ```javascript
 str.repeat(count);
 ```
