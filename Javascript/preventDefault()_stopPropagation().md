@@ -44,3 +44,4 @@ event.stopPropagation();
 - https://developer.mozilla.org/ko/docs/Web/API/Event/preventDefault
 - https://pa-pico.tistory.com/20
 - https://developer.mozilla.org/ko/docs/Web/API/Event/stopPropagation
+- [TIL - 이벤트 버블링과 캡처링](https://github.com/yyeonggg/TIL/blob/master/Javascript/bubbling_capturing.md)
