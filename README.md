@@ -12,7 +12,7 @@
 - [Rest 파라미터](https://github.com/yyeonggg/TIL/blob/master/Javascript/Rest%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0.md)
 - [기본 파라미터(Default Parameter)](https://github.com/yyeonggg/TIL/blob/master/Javascript/%EA%B8%B0%EB%B3%B8%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0.md)
 - [Repeat()](https://github.com/yyeonggg/TIL/blob/master/Javascript/repeat().md)
-- [문자열에서 문자 가져오기](https://github.com/yyeonggg/TIL/blob/master/javascript/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C%20%EB%AC%B8%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
+- [문자열에서 문자 가져오기](https://github.com/yyeonggg/TIL/blob/master/Javascript/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C%20%EB%AC%B8%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
 - [Math.max(), Math.min()](https://github.com/yyeonggg/TIL/blob/master/Javascript/Math.max(),Math.min().md)
 - [올림, 내림, 반올림](https://github.com/yyeonggg/TIL/blob/master/Javascript/Math.ceil-floor-round.md)
 - [isNaN()로 문자열이 숫자인지 체크하기](https://github.com/yyeonggg/TIL/blob/master/Javascript/isNaN().md)
