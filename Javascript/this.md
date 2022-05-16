@@ -131,3 +131,6 @@ var me = new Person('Nana', 28); //Nana is 28 years old
 ```
 - 화살표 함수로 바꾸면 제대로 된 결과가 나옴
 - 생성자 공부한 뒤 다시 정리할 것
+
+## 참고
+- https://nykim.work/71
