@@ -11,6 +11,7 @@
 - [변수 선언과 초기화](https://github.com/yyeonggg/TIL/blob/master/Javascript/%EB%B3%80%EC%88%98_%EC%84%A0%EC%96%B8%EA%B3%BC_%EC%B4%88%EA%B8%B0%ED%99%94.md)
 - [변수 쉐도잉](https://github.com/yyeonggg/TIL/blob/master/Javascript/variable_shadowing.md)
 - [올림, 내림, 반올림](https://github.com/yyeonggg/TIL/blob/master/Javascript/Math.ceil-floor-round.md)
+- [원시타입(primitive type) vs 참조타입(reference type)](https://github.com/yyeonggg/TIL/blob/master/Javascript/primitive_type_and_reference_type.md)
 - [웹 스토리지](https://github.com/yyeonggg/TIL/blob/master/Javascript/webStorage.md)
 - [이벤트 버블링과 캡처링](https://github.com/yyeonggg/TIL/blob/master/Javascript/bubbling_capturing.md)
 - [함수선언식 vs 함수표현식](https://github.com/yyeonggg/TIL/blob/master/Javascript/%ED%95%A8%EC%88%98%EC%84%A0%EC%96%B8%EC%8B%9D%20vs%20%ED%95%A8%EC%88%98%ED%91%9C%ED%98%84%EC%8B%9D.md)
