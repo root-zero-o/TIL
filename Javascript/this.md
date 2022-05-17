@@ -81,19 +81,40 @@ console.log(lee.name); //lee
 ### 6) 명시적 바인딩을 한 ```this```
 - 명시적 바인딩 : 짝을 지어주는 것(이 this는 내꺼야)
 - ```apply()```와 ```call()```메서드는 인자를 ```this```로 만들어주는 기능을 함
+#### ```call```함수 
+함수의 인수로 객체를 전달, 전달한 객체가 ```this```로 설정됨, 그 뒤 인수는 함수에 필요한 파라미터
 ```javascript
-function whoisThis() {
-  console.log(this);
+function add(c, d){
+     return this.a + this.b + c + d;
 }
- 
-whoisThis(); //window
- 
+
 var obj = {
-  x: 123,
-};
- 
-whoisThis.call(obj); //{x:123}
+     a: 1,
+     b: 2
+}
+
+console.log(add.call(obj, 3, 4)); // 10
 ```
+- 인수로 전달받은 객체를 ```this```로 사용할 수 있음
+- 원래라면 위의 ```add```함수의 ```this```는 전역객체지만, ```call```함수의 인수로 전달받은 객체를 명시적으로 ```this```에 바인딩 후 함수 콜
+#### ```apply```함수
+```call```함수와 인자로 전달하는 객체가 ```this```가 되는 것은 마찬가지이며, 그 뒤 ```apply``` 인수에는 배열을 넘김
+```javascript
+function foo(){
+     console.log(this);
+     console.log(foo.arguments);
+}
+
+var obj = {
+     var1: "1",
+     var2: "2"
+};
+
+foo.apply(obj, [1,2,3,4,5,6]);
+// Object { var1: "1", var2: "2" }    
+// [1, 2, 3, 4, 5, 6, callee: ƒ, Symbol(Symbol.iterator): ƒ]
+```
+-```this```로 바인딩할 객체 뒤 배열은 함수의 ```argument```(유사배열)로 전달 및 저장(argument로 활용 가능)
 ### 7) 화살표 함수로 쓴 this
 - 전역 맥락에서 실행되더라도 ```this```를 새로 정의하지 않고, 바로 바깥 함수나 클래스의 ```this```를 씀
 ```javascript
@@ -134,3 +155,4 @@ var me = new Person('Nana', 28); //Nana is 28 years old
 
 ## 참고
 - https://nykim.work/71
+- https://beam307.github.io/2018/02/05/javascript4/
