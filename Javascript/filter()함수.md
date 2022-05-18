@@ -1,5 +1,7 @@
 # filter()
-```Array.filter(callback(element, index, array))```<br><br>
+```javascript
+Array.filter(callback(element, index, array))
+```
 배열을 순회하며 요소마다 조건을 확인한 후 만족하는 원소들로 구성된 새로운 배열 리턴
 - ```callback``` : 각 요소를 시험할 함수. true를 반환하면 요소를 유지하고, false를 반환하면 버림
 - ```element``` : 처리할 현재 요소
