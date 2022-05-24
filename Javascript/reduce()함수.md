@@ -1,13 +1,13 @@
 # reduce()
 ## 1. ```reduce()```란?
-```arr.reduce(callback[, initialValue])```<br><br>
+```javascript
+배열.reduce((누적값, 현잿값, 인덱스, 요소) => {return 결과 }, 초깃값);
+```
 ```reduce()```는 빈 요소를 제외하고 배열 내에 존재하는 각 요소에 대해 ```callback```함수를 한 번식 실행
 -  ```callback``` : 배열의 각 요소에 대해 실행할 함수
-    - ```accumulator``` : 콜백함수의 반환값 누적
-    - ```currntValue``` : 처리할 현재 요소
-    - ```currentIndex```: 처리할 현재 요소의 인덱스 (Optional)
-    - ```array``` : ```reduce()```를 호출한 배열
-- ```initialValue```: ```callback```의 최초 호출에서 첫 번째 인수에 제공하는 값
+    - ```누적값``` : 콜백함수의 반환값 누적
+    - ```현잿값``` : 처리할 현재 요소
+    - ```인덱스```: 처리할 현재 요소의 인덱스 (Optional)
 ## 2. 예제
 ```javascript
 const oneTwoThree = [1, 2, 3];
