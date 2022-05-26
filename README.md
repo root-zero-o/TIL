@@ -5,6 +5,7 @@
 
 ## JavaScript
 - [기본 파라미터(Default Parameter)](https://github.com/yyeonggg/TIL/blob/master/Javascript/%EA%B8%B0%EB%B3%B8%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0.md)
+- [단축 평가 논리 계산법](https://github.com/yyeonggg/TIL/blob/master/Javascript/short-circuit_evaluation.md)
 - [문자열에서 문자 가져오기](https://github.com/yyeonggg/TIL/blob/master/Javascript/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C%20%EB%AC%B8%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
 - [반복문](https://github.com/yyeonggg/TIL/blob/master/Javascript/%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
 - [변수 선언과 초기화](https://github.com/yyeonggg/TIL/blob/master/Javascript/%EB%B3%80%EC%88%98_%EC%84%A0%EC%96%B8%EA%B3%BC_%EC%B4%88%EA%B8%B0%ED%99%94.md)
