@@ -41,6 +41,7 @@
 - [🛠프로젝트 세팅🛠](https://github.com/yyeonggg/TIL/blob/master/React/setting.md)
 - [Component 란?](https://github.com/yyeonggg/TIL/blob/master/React/component.md)
 - [JSX 란?](https://github.com/yyeonggg/TIL/blob/master/React/JSX.md)
+- [Props 란?](https://github.com/yyeonggg/TIL/blob/master/React/props.md)
 - [Lifecycle](https://github.com/yyeonggg/TIL/blob/master/React/Lifecycle.md)
 
 ## Flask
