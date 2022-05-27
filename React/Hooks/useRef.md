@@ -42,5 +42,5 @@ const onReset = () => {
 ```
 
 ## 참고
-- [벨로퍼트 모던 리액트](https://react.vlpt.us/basic/10-useRef.html
+- [벨로퍼트 모던 리액트](https://react.vlpt.us/basic/10-useRef.html)
 - https://www.daleseo.com/react-hooks-use-ref/
