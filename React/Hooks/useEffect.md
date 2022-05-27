@@ -14,7 +14,15 @@
     - function : 실행하고자 하는 함수
     - deps : 배열 형태. function을 실행시킬 조건(deps에 특정 값을 넣으면 컴포넌트가 mount될 때, 지정한 값이 업데이트될 때 ```useEffect``` 실행
 ```javascript
-useEffect(function, deps)
+useEffect(() => {
+    // 마운트 시 작업 설정
+
+    return() => {
+        // 언마운트
+        // 반환되는 함수는 cleanup함수(뒷정리)
+        // deps가 비어있는 경우에는 컴포넌트가 사라질 때 cleanup함수 호출
+    }
+}, [deps]);
 ```
 
 - useEffect 불러오기
@@ -22,52 +30,16 @@ useEffect(function, deps)
 import React, {useEffect} from "react";
 ```
 
-### 1) 컴포넌트가 Mount 되었을 때
-```javascript
- useEffect(() => {
-    console.log("렌더링 될때마다 실행");
-  });
-```
-- deps 부분을 생략한다면 해당 컴포넌트가 렌더링 될 때마다 ```useEffect``` 실행
-- 맨 처음 랜더링 될 때 한 번만 실행하고 싶다면 deps 위치에 빈 배열을 넣어줌
-```javascript
-useEffect(() => {
-    console.log("맨 처음 렌더링될 때 한 번만 실행");
-  },[]);
-```
-### 2) 컴포넌트가 Update 되었을 때
-```javascript
-useEffect(() => {
-    console.log(name);
-    console.log("name이라는 값이 업데이트 될 때만 실행");
-  },[name]);
-```
-- 특정 값이 업데이트될 때만 실행하고 싶을 때는 deps 위치의 배열 안에 실행 조건을 넣어줌(업데이트 + 마운트 될 때 실행됨)
-- 업데이트될 때만 실행시키고 싶으면 아래와 같은 방법 사용
-```javascript
-const mounted = useRef(false);
-  useEffect(() => {
-    if (!mounted.current) {
-      mounted.current = true;
-    } else {
-      console.log(name);
-      console.log("업데이트 될 때마다 실행");
-    }
-  }, [name]);
-```
-### 3) 컴포넌트가 Unmount 되었을 때 + Update 되기 직전에
-```javascript
-useEffect(() => {
-    console.log("컴포넌트 나타남");
-    console.log(name);
-    return () => {
-      console.log("cleanUp 함수");
-    };
-  });
-```
-- ```useEffect```는 함수를 반환할 수 있는데, 이 함수를 ```cleanup```이라고 함
-- Unmount될 때만 ```cleanup``` 함수를 실행시키고 싶으면 deps에 빈 배열을 넣으면 됨
-- 특정 값이 업데이트되기 직전에 ```cleanup```함수를 실행시키고 싶으면 deps에 해당 값을 넣어주면 됨
+- deps에 빈 배열
+    - 처음 컴포넌트 마운트 됐을 때 ```useEffect```내 함수 호출(componentDidmount)
+    - 컴포넌트가 언마운트 될 때 cleanup 함수 호출(componentWillUnmount)
+- deps에 의존 값 존재
+    - 처음 컴포넌트가 마운트 됐을 때 ```useEffect```내 함수 호출(componentDidmount)
+    - 의존 값이 업데이트 됐을 때(componentDidUpdate)
+    - 컴포넌트가 언마운트 될 때 cleanup 함수 호출(componentWillUnmount)
+- 아예 파라미터를 안 넣었을 경우 : 리렌더링 될 떄마다 함수 호출
+
+
 
 ## 참고
 - https://ko.reactjs.org/docs/hooks-effect.html
