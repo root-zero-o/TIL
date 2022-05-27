@@ -56,7 +56,7 @@
 - [Props 란?](https://github.com/yyeonggg/TIL/blob/master/React/props.md)
 - [Lifecycle](https://github.com/yyeonggg/TIL/blob/master/React/Lifecycle.md)
 - [State 란?](https://github.com/yyeonggg/TIL/blob/master/React/state.md)
-- [Hooks🪝](https://github.com/yyeonggg/TIL/tree/master/React/Hooks)
+- [Hooks](https://github.com/yyeonggg/TIL/tree/master/React/Hooks)
     - [useState](https://github.com/yyeonggg/TIL/blob/master/React/Hooks/usestate.md)
     - [useRef](https://github.com/yyeonggg/TIL/blob/master/React/Hooks/useRef.md)
 
