@@ -8,7 +8,9 @@
 2. [React](https://github.com/yyeonggg/TIL#react)
 3. [Flask](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
 4. [CSS](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
-5. [독서]()
+5. [독서](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
+
+----
 
 ## JavaScript
 - [기본 파라미터(Default Parameter)](https://github.com/yyeonggg/TIL/blob/master/Javascript/%EA%B8%B0%EB%B3%B8%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0.md)
@@ -45,6 +47,8 @@
 - [this](https://github.com/yyeonggg/TIL/blob/master/Javascript/this.md)
 - [var, let, const 비교](https://github.com/yyeonggg/TIL/blob/master/Javascript/var%2C%20let%2C%20const%20%EB%B9%84%EA%B5%90.md)
 
+----
+
 ## React
 - [🛠프로젝트 세팅🛠](https://github.com/yyeonggg/TIL/blob/master/React/setting.md)
 - [Component 란?](https://github.com/yyeonggg/TIL/blob/master/React/component.md)
@@ -53,13 +57,19 @@
 - [Lifecycle](https://github.com/yyeonggg/TIL/blob/master/React/Lifecycle.md)
 - [State 란?](https://github.com/yyeonggg/TIL/blob/master/React/state.md)
 
+----
+
 ## Flask
 - [url_for 함수](https://github.com/yyeonggg/TIL/blob/master/Flask/url_for%20%ED%95%A8%EC%88%98.md)
+
+----
 
 ## CSS
 - [box-shadow](https://github.com/yyeonggg/TIL/blob/master/CSS/box-shadow.md)
 - [position: absolute 가운데 두기](https://github.com/yyeonggg/TIL/blob/master/CSS/position:%20absolute%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EB%91%90%EA%B8%B0.md)
 - [이모지 색 변경하기](https://github.com/yyeonggg/TIL/blob/master/CSS/%EC%9D%B4%EB%AA%A8%EC%A7%80%20%EC%83%89%20%EB%B3%80%EA%B2%BD.md)
+
+----
 
 ## 독서
 - [1일 1로그 100일 완성 IT 지식(브라이언 W.커니핸 저/하성창 역)](https://github.com/yyeonggg/TIL/blob/master/%EB%8F%85%EC%84%9C/1%EC%9D%BC_1%EB%A1%9C%EA%B7%B8_100%EC%9D%BC_%EC%99%84%EC%84%B1_IT%EC%A7%80%EC%8B%9D.md)
