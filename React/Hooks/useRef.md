@@ -40,6 +40,17 @@ const onReset = () => {
     nameInput.current.focus(); // 상자 안에 담긴 친구(nameInput.current)를 focus 해주세요
   };
 ```
+## 3. useRef로 컴포넌트 안의 변수 만들기
+- ```useRef```는 컴포넌트 안에서 조회 및 수정할 수 있는 변수를 관리할 때에도 사용됨
+- ```useRef```로 관리하는 변수는 값이 바뀌어도 리렌더링X
+- ```state```는 함수를 호출하고 나서 그 다음 렌더링 이후로 업데이트 상태 조회 가능, ```useRef```로 관리하는 변수는 설정 후 바로 조회 가능
+- ```useRef```로 어떤 값을 관리해요?
+    - ```setTimeout```,```setInterval```을 통해 만들어진 ```id```
+    - 외부 라이브러리를 사용해 생성된 인스턴스
+    - scroll 위치
+
+
+
 
 ## 참고
 - [벨로퍼트 모던 리액트](https://react.vlpt.us/basic/10-useRef.html)
