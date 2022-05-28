@@ -32,3 +32,8 @@ import React, { useMemo } from "react";
 - ```useMemo``` hook 함수를 남용하면, 컴포넌트의 복잡도가 올라가기 때문에 코드를 읽기 어려워지고 유지보수성이 떨어짐
 - ```useMemo```가 적용된 레퍼런스는 재활용을 위해 garbage collection에서 제외되기 때문에 메모리를 더 씀
 - 실제 웹 프로젝트에서 사용할 일은 많지 않다!
+
+## 참고
+- https://www.daleseo.com/react-hooks-use-memo/
+- https://ko.reactjs.org/docs/hooks-reference.html
+- [벨로퍼트 모던 리액트](https://react.vlpt.us/basic/17-useMemo.html)
