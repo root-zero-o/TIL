@@ -62,6 +62,7 @@
     - [useEffect](https://github.com/yyeonggg/TIL/blob/master/React/Hooks/useEffect.md)
     - [useMemo](https://github.com/yyeonggg/TIL/blob/master/React/Hooks/useMemo.md)
     - [useCallback](https://github.com/yyeonggg/TIL/blob/master/React/Hooks/useCallback.md)
+- [React.memo](https://github.com/yyeonggg/TIL/blob/master/React/React.memo.md)
 ----
 
 ### Flask
