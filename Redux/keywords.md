@@ -53,3 +53,6 @@ function counter(state, action) {
 - 스토어의 내장함수 중 하나로, 함수 형태의 값을 파라미터로 받아옴
 - subscribe 함수에 특정 함수를 전달해주면, 액션이 디스패치 되었을 때 마다 전달해 준 함수가 호출됨
 - react-redux 라는 라이브러리에서 제공하는 ```connect``` 함수 또는 ```useSelector``` Hook 을 사용하여 리덕스 스토어의 상태에 구독함
+
+## 참고
+- [벨로퍼트 모던 리액트](https://react.vlpt.us/redux/01-keywords.html)
