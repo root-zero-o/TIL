@@ -6,7 +6,7 @@
 ### 목차
 1. [JavaScript](https://github.com/yyeonggg/TIL#javascript)
 2. [React](https://github.com/yyeonggg/TIL#react)
-3. [Redux](https://github.com/yyeonggg/TIL/blob/master/README.md#redux)
+3. [React Redux](https://github.com/yyeonggg/TIL/blob/master/README.md#redux)
 4. [Flask](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
 5. [CSS](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
 6. [독서](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
@@ -66,8 +66,9 @@
     - [useReducer](https://github.com/yyeonggg/TIL/blob/master/React/Hooks/useReducer.md)
 - [React.memo](https://github.com/yyeonggg/TIL/blob/master/React/React.memo.md)
 ----
-### Redux
+### React Redux
 - [Redux에서 사용되는 keywords](https://github.com/yyeonggg/TIL/blob/master/Redux/keywords.md)
+- [React Redux - basic](https://github.com/yyeonggg/TIL/blob/master/React%20Redux/basic.md)
 
 ----
 
