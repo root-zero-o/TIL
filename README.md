@@ -65,6 +65,10 @@
     - [useReducer](https://github.com/yyeonggg/TIL/blob/master/React/Hooks/useReducer.md)
 - [React.memo](https://github.com/yyeonggg/TIL/blob/master/React/React.memo.md)
 ----
+### Redux
+- [Redux에서 사용되는 keywords](https://github.com/yyeonggg/TIL/blob/master/Redux/keywords.md)
+
+----
 
 ### Flask
 - [url_for 함수](https://github.com/yyeonggg/TIL/blob/master/Flask/url_for%20%ED%95%A8%EC%88%98.md)
