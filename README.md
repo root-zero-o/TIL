@@ -67,7 +67,7 @@
 - [React.memo](https://github.com/yyeonggg/TIL/blob/master/React/React.memo.md)
 ----
 ### React Redux
-- [Redux에서 사용되는 keywords](https://github.com/yyeonggg/TIL/blob/master/Redux/keywords.md)
+- [Redux에서 사용되는 keywords](https://github.com/yyeonggg/TIL/blob/master/React%20Redux/keywords.md)
 - [React Redux - basic](https://github.com/yyeonggg/TIL/blob/master/React%20Redux/basic.md)
 
 ----
