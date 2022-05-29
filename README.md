@@ -6,7 +6,7 @@
 ### 목차
 1. [JavaScript](https://github.com/yyeonggg/TIL#javascript)
 2. [React](https://github.com/yyeonggg/TIL#react)
-3. [Redux]
+3. [Redux](https://github.com/yyeonggg/TIL/blob/master/README.md#redux)
 4. [Flask](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
 5. [CSS](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
 6. [독서](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
