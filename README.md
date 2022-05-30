@@ -4,7 +4,7 @@
 ### 배운 것들을 정리하고 기록합니다.
 
 ### 목차
-1. [Words]()
+1. [Words](https://github.com/yyeonggg/TIL/blob/master/README.md#words)
 2. [JavaScript](https://github.com/yyeonggg/TIL#javascript)
 3. [React](https://github.com/yyeonggg/TIL#react)
 4. [React Redux](https://github.com/yyeonggg/TIL/blob/master/README.md#redux)
