@@ -14,7 +14,7 @@
 
 ----
 ### Words
-- [동기&비동기]()
+- [동기&비동기](https://github.com/yyeonggg/TIL/tree/master/Words)
 
 ----
 
