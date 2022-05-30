@@ -45,6 +45,7 @@
 - [Math.max(), Math.min()](https://github.com/yyeonggg/TIL/blob/master/Javascript/Math.max(),Math.min().md)
 - [parseFloat(), parseInt()로 문자열을 수로 바꾸기](https://github.com/yyeonggg/TIL/blob/master/Javascript/parseInt-Float().md)
 - [preventDefault(), stopPropagation()](https://github.com/yyeonggg/TIL/blob/master/Javascript/preventDefault()_stopPropagation().md)
+- [promise](https://github.com/yyeonggg/TIL/blob/master/Javascript/Promise.md)
 - [querySelector()](https://github.com/yyeonggg/TIL/blob/master/Javascript/querySelector().md)
 - [reduce()](https://github.com/yyeonggg/TIL/blob/master/Javascript/reduce()%ED%95%A8%EC%88%98.md)
 - [Repeat()](https://github.com/yyeonggg/TIL/blob/master/Javascript/repeat().md)
