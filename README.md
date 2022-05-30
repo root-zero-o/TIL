@@ -4,12 +4,17 @@
 ### 배운 것들을 정리하고 기록합니다.
 
 ### 목차
-1. [JavaScript](https://github.com/yyeonggg/TIL#javascript)
-2. [React](https://github.com/yyeonggg/TIL#react)
-3. [React Redux](https://github.com/yyeonggg/TIL/blob/master/README.md#redux)
-4. [Flask](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
-5. [CSS](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
-6. [독서](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
+1. [Words]()
+2. [JavaScript](https://github.com/yyeonggg/TIL#javascript)
+3. [React](https://github.com/yyeonggg/TIL#react)
+4. [React Redux](https://github.com/yyeonggg/TIL/blob/master/README.md#redux)
+5. [Flask](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
+6. [CSS](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
+7. [독서](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
+
+----
+### Words
+- [동기&비동기]()
 
 ----
 
