@@ -114,8 +114,8 @@ export const decrease = () => ({ type: DECREASE });
 /* 3단계 : 초기 상태 선언 */
 // 제일 처음 store가 가질 초기값!
 const initialState = {
-    number: 0, // 화면에 보여줄 초기값 -?????
-    diff: 1 // input에 띄워줄 초기값 - ????????
+    number: 0, // 화면에 보여줄 초기값
+    diff: 1 // input에 띄워줄 초기값 
 }
 
 /* 4단계 : 리듀서 선언 */
@@ -159,12 +159,12 @@ function CounterContainer() {
     // useSelector는 리덕스 스토어의 상태를 조회하는 Hook
     // 비구조화로 객체의 경우 좌항과 우항이 매칭된다.
     const { number, diff } = useSelector(state => ({
-        number : state.counter.number, // 왜 counter.number 야?? counter는 그냥 state값 업데이트 해주는 애잖아.
-        diff : state.counter.diff // 그냥 state.diff라고 해야하는거 아님??? counter라는 리듀서가 호출되면 state값이 바뀌잖아. 
+        number : state.counter.number, //
+        diff : state.counter.diff //  
     }));
 
     // 그냥 CRUD 할때 무조건 dispatch를 써야해. 그래서 선언
-    const dispatch = useDispatch(); // 이건 왜 선언하는데? 그냥 useDispatch쓰면 되는거 아님?
+    const dispatch = useDispatch(); //
 
     // 함수를 만드는데, 그 함수를 dispatch를 이용해서 reducer에서 만든 애들을 불러와야해
     const onIncrease = () => dispatch(increase());
