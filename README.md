@@ -8,7 +8,7 @@
 2. [JavaScript](https://github.com/yyeonggg/TIL#javascript)
 3. [React](https://github.com/yyeonggg/TIL#react)
 4. [React Redux](https://github.com/yyeonggg/TIL/blob/master/README.md#redux)
-5. [Styled-Component]()
+5. [Styled-Component](https://github.com/yyeonggg/TIL/blob/master/README.md#styled-component)
 6. [Flask](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
 7. [CSS](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
 8. [독서](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
