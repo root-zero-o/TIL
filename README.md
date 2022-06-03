@@ -82,7 +82,7 @@
 ----
 
 ### Styled-Component
--[props ](https://github.com/yyeonggg/TIL/blob/master/Styled-Component/props%ED%99%9C%EC%9A%A9.md)
+- [props 활용하기](https://github.com/yyeonggg/TIL/blob/master/Styled-Component/props%ED%99%9C%EC%9A%A9.md)
 
 ----
 
