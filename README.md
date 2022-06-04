@@ -78,6 +78,7 @@
 ### React Redux
 - [Redux에서 사용되는 keywords](https://github.com/yyeonggg/TIL/blob/master/React%20Redux/keywords.md)
 - [React Redux - basic](https://github.com/yyeonggg/TIL/blob/master/React%20Redux/basic.md)
+- [Redux-thunk 기본 사용법](https://github.com/yyeonggg/TIL/blob/master/React%20Redux/Redux-thunk.md)
 
 ----
 
