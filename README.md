@@ -104,6 +104,7 @@
 ### Git & Github
 - [🛠Settings🛠](https://github.com/yyeonggg/TIL/blob/master/Git%26Github/git-basic.md)
 - [Git 명령어 - Basic](https://github.com/yyeonggg/TIL/blob/master/Git%26Github/commands.md)
+- [Git 명령어 - Add, Ignore](https://github.com/yyeonggg/TIL/blob/master/Git&Github/commands_add_ignore.md)
 
 ----
 
