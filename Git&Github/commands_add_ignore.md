@@ -41,7 +41,7 @@ git rm --cached [파일명]
 ----
 
 
-## 1. git ignore
+## 2. git ignore
 - 📁 gitignore 파일에 추가
 ```
 echo [파일명] > .gitignore
