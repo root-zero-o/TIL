@@ -102,7 +102,7 @@
 ----
 
 ### Git & Github
-- [Settings](https://github.com/yyeonggg/TIL/blob/master/Git%26Github/git-basic.md)
+- [🛠Settings🛠](https://github.com/yyeonggg/TIL/blob/master/Git%26Github/git-basic.md)
 
 ----
 
