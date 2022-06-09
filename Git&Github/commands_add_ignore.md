@@ -35,7 +35,8 @@ Changes not staged for commit:
 ```
 #### 📁staging area에서 내리기
 ```
-git rm --cached [파일명]
+git rm --cached [파일명]  // staging area에 추가된 파일을 다시 working directory로 내려보내는 명령어
+git rm -r -cached .  // 현재 staging directory에 있는 모든 파일을 한꺼번에 다시 working directory로 내리기
 ```
 
 ----
@@ -63,3 +64,4 @@ Untracked files:
 ```
 ## 참고
 - [드림코딩 유튜브](https://www.youtube.com/watch?v=Z9dvM7qgN9s)
+- https://velog.io/@grinding_hannah/Git-Git-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%ED%84%B0%EB%AF%B8%EB%84%90-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC
