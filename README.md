@@ -100,5 +100,10 @@
 
 ----
 
+### Git & Github
+- [Settings](https://github.com/yyeonggg/TIL/blob/master/Git%26Github/git-basic.md)
+
+----
+
 ### 독서
 - [1일 1로그 100일 완성 IT 지식(브라이언 W.커니핸 저/하성창 역)](https://github.com/yyeonggg/TIL/blob/master/%EB%8F%85%EC%84%9C/1%EC%9D%BC_1%EB%A1%9C%EA%B7%B8_100%EC%9D%BC_%EC%99%84%EC%84%B1_IT%EC%A7%80%EC%8B%9D.md)
