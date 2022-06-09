@@ -11,7 +11,8 @@
 5. [Styled-Component](https://github.com/yyeonggg/TIL/blob/master/README.md#styled-component)
 6. [Flask](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
 7. [CSS](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
-8. [독서](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
+8. [Git & Github](https://github.com/yyeonggg/TIL/blob/master/README.md#git--github)
+9. [독서](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
 
 ----
 ### Words
