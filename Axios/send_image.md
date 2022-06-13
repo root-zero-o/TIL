@@ -1,4 +1,4 @@
-# formData 활용해서 Axios로 서버에 이미지 보내기
+# formData 활용해서 이미지 post하기
 
 ### 1. 이미지만 보낼 때
 #### 1) formData 객체 만들기
