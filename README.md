@@ -93,6 +93,7 @@
 ### Axios
 - [Axios - Basic🐣](https://github.com/yyeonggg/TIL/blob/master/Axios/basic.md)
 - [Interceptors](https://github.com/yyeonggg/TIL/blob/master/Axios/interceptors.md)
+- [formData 활용해 이미지 post하기](https://github.com/yyeonggg/TIL/blob/master/Axios/send_image.md)
 
 ----
 
