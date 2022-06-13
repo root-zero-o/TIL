@@ -43,6 +43,7 @@ instance.interceptors.response.use(
 
 ## 2. 예시
 <img src="https://user-images.githubusercontent.com/97326130/173282641-1469826b-b532-46de-9161-8e87e3b24a9b.png" width="600"/>
+
 - core 디렉토리에 axios 인스턴스를 생성하는 파일인 ```index.js```를 만듦
 - core 밖에 ```main.js```에서 axios 인스턴스를 import한 후, api를 호출하는 함수를 모아놓은 파일
 
