@@ -80,6 +80,21 @@ const CreateList = () => {
 export default CreateList
 ```
 
+-----
+
+### formData 값 확인하기
+```
+// FormData의 key 확인
+for (let key of formData.keys()) {
+  console.log(key);
+}
+
+// FormData의 value 확인
+for (let value of formData.values()) {
+  console.log(value);
+}
+```
+
 
 ### 참고
 - https://stackoverflow.com/questions/47630163/axios-post-request-to-send-form-data
