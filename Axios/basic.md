@@ -55,7 +55,7 @@ export const addPostDB = ({title, imgURL, text}) => {
 }
 ```
 - DELETE 요청
-```
+```javascript
 export const deletePostDB = (id) => {
   return async function (dispatch, getState){
     try {
