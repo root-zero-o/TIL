@@ -83,7 +83,7 @@ export default CreateList
 -----
 
 ### formData 값 확인하기
-```
+```javascript
 // FormData의 key 확인
 for (let key of formData.keys()) {
   console.log(key);
