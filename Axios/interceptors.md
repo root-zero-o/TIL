@@ -3,13 +3,14 @@
 ## 1. Interceptor란?
 - 인터셉터로 요청하기 직전, 응답을 받고 then이나 catch로 처리하기 직전에 가로챌 수 있음!
 - 구성 : 인스턴스, request 설정, response 설정
+- axios는 기본적으로 api timeout이 설정되어 있지 않아 API를 호출하면 서버에서 응답주기 전까지 계속 연결되어 있음
 ```javascript
 import axios from 'axios'
 
 /* 1. axios 인스턴스 생성 */
-const instance = axios.create({
+const request = axios.create({
   baseURL : "https://api.com",
-  timeout: 1000
+  timeout: 30000 //timeout 설정
 });
 
 /* request 인터셉터(2개의 콜백함수를 받음) */
