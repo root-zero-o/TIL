@@ -99,3 +99,4 @@ for (let value of formData.values()) {
 ### 참고
 - https://stackoverflow.com/questions/47630163/axios-post-request-to-send-form-data
 - https://developer0809.tistory.com/135
+- https://velog.io/@josworks27/formData-console.log
