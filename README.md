@@ -9,7 +9,7 @@
 3. [React](https://github.com/yyeonggg/TIL#react)
 4. [React Redux](https://github.com/yyeonggg/TIL/blob/master/README.md#redux)
 5. [Styled-Component](https://github.com/yyeonggg/TIL/blob/master/README.md#styled-component)
-6. [Axios]()
+6. [Axios](https://github.com/yyeonggg/TIL/blob/master/README.md#axios)
 7. [Flask](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
 8. [CSS](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
 9. [Git & Github](https://github.com/yyeonggg/TIL/blob/master/README.md#git--github)
