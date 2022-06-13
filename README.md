@@ -40,6 +40,7 @@
 - [화살표 함수](https://github.com/yyeonggg/TIL/blob/master/Javascript/%ED%99%94%EC%82%B4%ED%91%9C_%ED%95%A8%EC%88%98.md)
 - [addEventListener()](https://github.com/yyeonggg/TIL/blob/master/Javascript/addEventListener.md)
 - [async(),await()](https://github.com/yyeonggg/TIL/blob/master/Javascript/async_await.md)
+- [Blob](https://github.com/yyeonggg/TIL/blob/master/Javascript/blob.md)
 - [Callback 함수](https://github.com/yyeonggg/TIL/blob/master/Javascript/Callback%ED%95%A8%EC%88%98.md)
 - [fetch()](https://github.com/yyeonggg/TIL/blob/master/Javascript/fetch.md)
 - [filter()](https://github.com/yyeonggg/TIL/blob/master/Javascript/filter()%ED%95%A8%EC%88%98.md)
