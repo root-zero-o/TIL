@@ -8,12 +8,13 @@
 2. [JavaScript](https://github.com/yyeonggg/TIL#javascript)
 3. [React](https://github.com/yyeonggg/TIL#react)
 4. [React Redux](https://github.com/yyeonggg/TIL/blob/master/README.md#redux)
-5. [Styled-Component](https://github.com/yyeonggg/TIL/blob/master/README.md#styled-component)
-6. [Axios](https://github.com/yyeonggg/TIL/blob/master/README.md#axios)
-7. [Flask](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
-8. [CSS](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
-9. [Git & Github](https://github.com/yyeonggg/TIL/blob/master/README.md#git--github)
-10. [독서](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
+5. [React-query]()
+6. [Styled-Component](https://github.com/yyeonggg/TIL/blob/master/README.md#styled-component)
+7. [Axios](https://github.com/yyeonggg/TIL/blob/master/README.md#axios)
+8. [Flask](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
+9. [CSS](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
+10. [Git & Github](https://github.com/yyeonggg/TIL/blob/master/README.md#git--github)
+11. [독서](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
 
 ----
 ### Words
@@ -83,6 +84,11 @@
 - [Redux에서 사용되는 keywords](https://github.com/yyeonggg/TIL/blob/master/React%20Redux/keywords.md)
 - [React Redux - basic](https://github.com/yyeonggg/TIL/blob/master/React%20Redux/basic.md)
 - [Redux-thunk 기본 사용법](https://github.com/yyeonggg/TIL/blob/master/React%20Redux/Redux-thunk.md)
+
+----
+
+### React-query
+- [🛠Settings🛠](https://github.com/yyeonggg/TIL/blob/master/React-query/Settings.md)
 
 ----
 
