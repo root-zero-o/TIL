@@ -8,7 +8,7 @@
 import axios from 'axios'
 
 /* 1. axios 인스턴스 생성 */
-const request = axios.create({
+const instance = axios.create({
   baseURL : "https://api.com",
   timeout: 30000 //timeout 설정
 });
