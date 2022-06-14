@@ -89,6 +89,7 @@
 
 ### React-query
 - [🛠Settings🛠](https://github.com/yyeonggg/TIL/blob/master/React-query/Settings.md)
+- [useQuery 사용해서 GET 하기](https://github.com/yyeonggg/TIL/blob/master/React-query/useQuery.md)
 
 ----
 
