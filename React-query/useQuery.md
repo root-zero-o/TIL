@@ -34,7 +34,7 @@ export const useGetPosts = () => {
 }
 ```
 - src/components/CardContainer.jsx
-```
+```javascript
 const { data } = useGetPosts();
 ```
 👉 단 한줄 !!!!! 정말 대박이다...!
