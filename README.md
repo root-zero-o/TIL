@@ -8,7 +8,7 @@
 2. [JavaScript](https://github.com/yyeonggg/TIL#javascript)
 3. [React](https://github.com/yyeonggg/TIL#react)
 4. [React Redux](https://github.com/yyeonggg/TIL/blob/master/README.md#redux)
-5. [React-query]()
+5. [React-query](https://github.com/yyeonggg/TIL#react-query)
 6. [Styled-Component](https://github.com/yyeonggg/TIL/blob/master/README.md#styled-component)
 7. [Axios](https://github.com/yyeonggg/TIL/blob/master/README.md#axios)
 8. [Flask](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
