@@ -9,8 +9,8 @@
 3. [React](https://github.com/yyeonggg/TIL#react)
 4. [React Redux](https://github.com/yyeonggg/TIL/blob/master/README.md#redux)
 5. [React-query](https://github.com/yyeonggg/TIL#react-query)
-6. [React-Hook-Form]()
-7. [Next.js]()
+6. [React-Hook-Form](https://github.com/yyeonggg/TIL#react-hook-form)
+7. [Next.js](https://github.com/yyeonggg/TIL#nextjs)
 8. [Styled-Component](https://github.com/yyeonggg/TIL/blob/master/README.md#styled-component)
 9. [Axios](https://github.com/yyeonggg/TIL/blob/master/README.md#axios)
 10. [Flask](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
@@ -103,7 +103,7 @@
 ----
 
 ### Next.js
-- [Static Generation & SSR](https://github.com/yyeonggg/TIL/blob/master/Next.js/pages.md)
+- [Pre-rendering](https://github.com/yyeonggg/TIL/blob/master/Next.js/pages.md)
 
 ----
 
