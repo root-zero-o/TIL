@@ -1,6 +1,6 @@
-# Pages
+# Pre-rendering
 
-## 기본
+## Pages
 
 - Next.js는 ```pages``` 디렉토리 안의 ```.js```, ```.jsx```, ```.ts```, ```.tsx``` 파일들은 파일 이름으로 route 됨
 - ```pages/posts/[id].js```라는 파일은 ```/posts/1```, ```posts/2``` 등 으로 접근할 수 있음
