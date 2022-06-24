@@ -103,6 +103,7 @@
 ----
 
 ### Next.js
+-[🛠Settings🛠](https://github.com/yyeonggg/TIL/blob/master/Next.js/settings.md)
 - [Pre-rendering](https://github.com/yyeonggg/TIL/blob/master/Next.js/pages.md)
 
 ----
