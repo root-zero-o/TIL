@@ -10,12 +10,13 @@
 4. [React Redux](https://github.com/yyeonggg/TIL/blob/master/README.md#redux)
 5. [React-query](https://github.com/yyeonggg/TIL#react-query)
 6. [React-Hook-Form]()
-7. [Styled-Component](https://github.com/yyeonggg/TIL/blob/master/README.md#styled-component)
-8. [Axios](https://github.com/yyeonggg/TIL/blob/master/README.md#axios)
-9. [Flask](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
-10. [CSS](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
-11. [Git & Github](https://github.com/yyeonggg/TIL/blob/master/README.md#git--github)
-12. [독서](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
+7. [Next.js]()
+8. [Styled-Component](https://github.com/yyeonggg/TIL/blob/master/README.md#styled-component)
+9. [Axios](https://github.com/yyeonggg/TIL/blob/master/README.md#axios)
+10. [Flask](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
+11. [CSS](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
+12. [Git & Github](https://github.com/yyeonggg/TIL/blob/master/README.md#git--github)
+13. [독서](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
 
 ----
 ### Words
@@ -98,6 +99,11 @@
 ### React-Hook-Form
 - [🛠Settings🛠](https://github.com/yyeonggg/TIL/blob/master/React-Hook-Form/settings.md)
 - [useForm으로 유효성 검사하기](https://github.com/yyeonggg/TIL/blob/master/React-Hook-Form/useForm.md)
+
+----
+
+### Next.js
+- [Static Generation & SSR](https://github.com/yyeonggg/TIL/blob/master/Next.js/pages.md)
 
 ----
 
