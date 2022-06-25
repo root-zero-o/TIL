@@ -106,6 +106,7 @@
 - [🛠Settings🛠](https://github.com/yyeonggg/TIL/blob/master/Next.js/settings.md)
 - [Pre-rendering](https://github.com/yyeonggg/TIL/blob/master/Next.js/pages.md)
 - [Routing](https://github.com/yyeonggg/TIL/blob/master/Next.js/routing.md)
+- [Next.js에서 style 주기](https://github.com/yyeonggg/TIL/blob/master/Next.js/styles.md)
 
 ----
 
