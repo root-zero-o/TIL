@@ -67,6 +67,7 @@
 ----
 
 ### TypeScript
+-[🛠Settings🛠](https://github.com/root-zero-o/TIL/blob/master/TypeScript/Settings.md)
 
 
 ----
