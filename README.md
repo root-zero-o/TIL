@@ -4,32 +4,33 @@
 ### 배운 것들을 정리하고 기록합니다.
 
 ### 목차
-1. [Words](https://github.com/yyeonggg/TIL/blob/master/README.md#words)
-2. [JavaScript](https://github.com/yyeonggg/TIL#javascript)
-3. [React](https://github.com/yyeonggg/TIL#react)
-4. [React Redux](https://github.com/yyeonggg/TIL/blob/master/README.md#redux)
-5. [React-query](https://github.com/yyeonggg/TIL#react-query)
-6. [React-Hook-Form](https://github.com/yyeonggg/TIL#react-hook-form)
-7. [Next.js](https://github.com/yyeonggg/TIL#nextjs)
-8. [Styled-Component](https://github.com/yyeonggg/TIL/blob/master/README.md#styled-component)
-9. [Axios](https://github.com/yyeonggg/TIL/blob/master/README.md#axios)
-10. [Flask](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
-11. [CSS](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
-12. [Git & Github](https://github.com/yyeonggg/TIL/blob/master/README.md#git--github)
-13. [독서](https://github.com/yyeonggg/TIL/blob/master/README.md#flask)
+1. [Words](https://github.com/root-zero-o/TIL/blob/master/README.md#words)
+2. [JavaScript](https://github.com/root-zero-o/TIL#javascript)
+3. [TypeScript](https://github.com/root-zero-o/TIL#TypeScript)
+4. [React](https://github.com/root-zero-o/TIL#react)
+5. [React Redux](https://github.com/root-zero-o/TIL/blob/master/README.md#redux)
+6. [React-query](https://github.com/root-zero-o/TIL#react-query)
+7. [React-Hook-Form](https://github.com/root-zero-o/TIL#react-hook-form)
+8. [Next.js](https://github.com/root-zero-o/TIL#nextjs)
+9. [Styled-Component](https://github.com/root-zero-o/TIL/blob/master/README.md#styled-component)
+10. [Axios](https://github.com/root-zero-o/TIL/blob/master/README.md#axios)
+11. [Flask](https://github.com/root-zero-o/TIL/blob/master/README.md#flask)
+12. [CSS](https://github.com/root-zero-o/TIL/blob/master/README.md#flask)
+13. [Git & Github](https://github.com/root-zero-o/TIL/blob/master/README.md#git--github)
+14. [독서](https://github.com/root-zero-o/TIL/blob/master/README.md#flask)
 
 ----
 ### Words
-- [동기&비동기](https://github.com/yyeonggg/TIL/tree/master/Words)
+- [동기&비동기](https://github.com/root-zero-o/TIL/tree/master/Words)
 
 ----
 
 ### JavaScript
-- [기본 파라미터(Default Parameter)](https://github.com/yyeonggg/TIL/blob/master/Javascript/%EA%B8%B0%EB%B3%B8%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0.md)
-- [단축 평가 논리 계산법](https://github.com/yyeonggg/TIL/blob/master/Javascript/short-circuit_evaluation.md)
-- [문자열에서 문자 가져오기](https://github.com/yyeonggg/TIL/blob/master/Javascript/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C%20%EB%AC%B8%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
-- [반복문](https://github.com/yyeonggg/TIL/blob/master/Javascript/%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
-- [변수 선언과 초기화](https://github.com/yyeonggg/TIL/blob/master/Javascript/%EB%B3%80%EC%88%98_%EC%84%A0%EC%96%B8%EA%B3%BC_%EC%B4%88%EA%B8%B0%ED%99%94.md)
+- [기본 파라미터(Default Parameter)](https://github.com/root-zero-o/TIL/blob/master/Javascript/%EA%B8%B0%EB%B3%B8%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0.md)
+- [단축 평가 논리 계산법](https://github.com/root-zero-o/TIL/blob/master/Javascript/short-circuit_evaluation.md)
+- [문자열에서 문자 가져오기](https://github.com/root-zero-o/TIL/blob/master/Javascript/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C%20%EB%AC%B8%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
+- [반복문](https://github.com/root-zero-o/TIL/blob/master/Javascript/%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
+- [변수 선언과 초기화](https://github.com/root-zero-o/TIL/blob/master/Javascript/%EB%B3%80%EC%88%98_%EC%84%A0%EC%96%B8%EA%B3%BC_%EC%B4%88%EA%B8%B0%ED%99%94.md)
 - [변수 쉐도잉](https://github.com/yyeonggg/TIL/blob/master/Javascript/variable_shadowing.md)
 - [생성자 함수](https://github.com/yyeonggg/TIL/blob/master/Javascript/%EC%83%9D%EC%84%B1%EC%9E%90_%ED%95%A8%EC%88%98.md)
 - [올림, 내림, 반올림](https://github.com/yyeonggg/TIL/blob/master/Javascript/Math.ceil-floor-round.md)
@@ -62,6 +63,11 @@
 - [setInterval, setTimeout](https://github.com/yyeonggg/TIL/blob/master/Javascript/setInterval_setTimeout.md)
 - [this](https://github.com/yyeonggg/TIL/blob/master/Javascript/this.md)
 - [var, let, const 비교](https://github.com/yyeonggg/TIL/blob/master/Javascript/var%2C%20let%2C%20const%20%EB%B9%84%EA%B5%90.md)
+
+----
+
+### TypeScript
+
 
 ----
 
