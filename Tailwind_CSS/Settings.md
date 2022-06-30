@@ -25,7 +25,7 @@ module.exports = {
 // tailwind.config.js
 
 module.exports = {
-  content: ['./src/**/*.tsx', './public/index.html'],
+  purge: ["./pages/**/*.{js,ts,jsx,tsx}", "./components/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {},
   },
@@ -36,7 +36,7 @@ module.exports = {
 
 ### 글로벌 CSS 설정
 ```css
-// src/tailwind.css
+// styles/globals.css
 
 @tailwind base;
 @tailwind components;
@@ -46,21 +46,19 @@ module.exports = {
 
 ### import
 ```typescript
-// src/index.tsx
+// pages/_app.tsx
 
-import React from 'react';
-import { render } from 'react-dom';
-import App from './App';
-import './tailwind.css';
+import type { AppProps } from "next/app";
+import "../styles/globals.css";
 
-render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root'),
-);
+const App = ({ Component, pageProps }: AppProps) => {
+  return <Component {...pageProps} />;
+};
+
+export default App;
 ```
 
 ## 참고
 - https://dev.classmethod.jp/articles/add-tailwindcss-in-react/#toc-8
 - https://tailwindcss.com/docs/installation
+- https://wonny.space/writing/dev/hello-tailwind-css
