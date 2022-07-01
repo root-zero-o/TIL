@@ -8,7 +8,8 @@ yarn add -D tailwindcss postcss autoprefixer
 
 ### 설정파일
 ```
-yarn tailwind css init  // tailwind.config.js 파일이 최상단에 생성된다.
+yarn tailwindcss init  // tailwind.config.js 파일이 최상단에 생성된다.
+yarn tailwindcss init -p  // tailwind.config.js, postcss.config.js 파일이 동시 생성됨
 ```
 
 ```typescript
