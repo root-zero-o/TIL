@@ -59,6 +59,8 @@ const App = ({ Component, pageProps }: AppProps) => {
 export default App;
 ```
 
+* VSCode Extension 중 ```Tailwind CSS intelliSense```를 사용하면 자동완성을 사용할 수 있음 !
+
 ## 참고
 - https://dev.classmethod.jp/articles/add-tailwindcss-in-react/#toc-8
 - https://tailwindcss.com/docs/installation
