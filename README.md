@@ -23,6 +23,7 @@
 ----
 ### Words
 - [동기&비동기](https://github.com/root-zero-o/TIL/tree/master/Words)
+- [CSR, SSR, SSG](https://github.com/root-zero-o/TIL/blob/master/Words/CSR%2CSSR%2CSSG.md)
 
 ----
 
