@@ -1,10 +1,10 @@
-# getServerSideProps로 SSR 구현하기!
+# getServerSideProps 사용해서 SSR 구현하기!
 
 ## 1. axios만 사용
 - ```getServerSideProps```는 *```pages``` 폴더 안의 파일에서만 실행된다.*
 - 컴포넌트에서 필요한 값들은 ```props```로 내려주기
 
-```typescript
+```javascript
 // pages/todoList.tsx
 
 import React from 'react'
@@ -50,7 +50,7 @@ export const getServerSideProps : GetServerSideProps = async () => {
 export default TodoList;
 ```
 - 받은 값을 다시 props로 넘겨주기
-```typescript
+```javascript
 // components/ListContainer.tsx
 
 import React from 'react'
@@ -75,7 +75,7 @@ const ListContainer = ({todoData} : Props) => {  // 받아온 값 다시 타입 
 export default ListContainer;
 ```
 - 값 사용해서 표시해주기
-```typescript
+```javascript
 // components/List.tsx
 
 import React from 'react'
