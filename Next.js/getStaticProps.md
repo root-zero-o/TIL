@@ -153,3 +153,4 @@ const Index = () => {
 - https://stackoverflow.com/questions/71630615/next-js-error-serializing-dehydratedstate-queries0-state-data-config-adapter
 - https://react-query.tanstack.com/guides/ssr
 - https://gingerkang.tistory.com/123
+- https://velog.io/@familyman80/Culture-Place%EC%A0%9C%EC%9E%91%EA%B8%B0-3-Nextjs%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-React-Query-1-
