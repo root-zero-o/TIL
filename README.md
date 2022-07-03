@@ -147,7 +147,7 @@
 - [이모지 색 변경하기](https://github.com/yyeonggg/TIL/blob/master/CSS/%EC%9D%B4%EB%AA%A8%EC%A7%80%20%EC%83%89%20%EB%B3%80%EA%B2%BD.md)
 - [Tailwind CSS]()
     - [🛠Settings🛠](https://github.com/root-zero-o/TIL/blob/master/CSS/Tailwind_CSS/Settings.md)
-    - [](https://github.com/root-zero-o/TIL/blob/master/CSS/Tailwind_CSS/customizing.md)
+    - [Customizing](https://github.com/root-zero-o/TIL/blob/master/CSS/Tailwind_CSS/customizing.md)
 
 ----
 
