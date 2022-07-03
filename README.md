@@ -118,6 +118,7 @@
 - [Routing](https://github.com/yyeonggg/TIL/blob/master/Next.js/routing.md)
 - [Next.js에서 style 주기](https://github.com/yyeonggg/TIL/blob/master/Next.js/styles.md)
 - [Custom App](https://github.com/yyeonggg/TIL/blob/master/Next.js/custom_app.md)
+- [getStaticProps 사용해서 SSG 구현하기](https://github.com/root-zero-o/TIL/blob/master/Next.js/getStaticProps.md)
 
 ----
 
