@@ -9,7 +9,10 @@ styles/element.css
     @apply bg-green dark:bg-dark rounded-xl w-2/3 py-5 px-10 grid text-center space-y-2 shadow-xl;
   }
 ```
-- 다크모드 ```class```로 사용한다고 지정해주기
+- 다크모드 ```class```로 사용한다고 지정해주기 <br><br>
+    - *```class```: 수동으로 다크모드를 조작한다.* <br>
+    - *```media(default)```: 컴퓨터 / 브라우저 환경설정에 따라 조작된다.*
+
 ```javascript
 // pages/tailwind.config.js
 
