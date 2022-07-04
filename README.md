@@ -149,6 +149,7 @@
     - [🛠Settings🛠](https://github.com/root-zero-o/TIL/blob/master/CSS/Tailwind_CSS/Settings.md)
     - [Customizing](https://github.com/root-zero-o/TIL/blob/master/CSS/Tailwind_CSS/customizing.md)
     - [다크 모드 만들기🌙](https://github.com/root-zero-o/TIL/blob/master/CSS/Tailwind_CSS/darkMode.md)
+    - [Group & Peer modifier](https://github.com/root-zero-o/TIL/blob/master/CSS/Tailwind_CSS/peer_group.md)
 
 ----
 
