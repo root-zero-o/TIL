@@ -100,6 +100,7 @@
 - Redux toolkit
     - [🛠Settings🛠](https://github.com/root-zero-o/TIL/blob/master/React%20Redux/Redux%20toolkit/settings.md)
     - [Slice 만들기](https://github.com/root-zero-o/TIL/blob/master/React%20Redux/Redux%20toolkit/slice_%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+    - [createSelector](https://github.com/root-zero-o/TIL/blob/master/React%20Redux/Redux%20toolkit/createSelector.md)
 
 ----
 
