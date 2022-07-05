@@ -93,6 +93,39 @@ export default function useGetTodos() {
 }
 ```
 
+### 5. 데이터 사용하기
+```javascript
+// components/CardContainer.tsx
+
+import React from 'react'
+import { Card } from './Card'
+import useGetTodos from "../Hooks/todosHook";
+import Input from './Input';
+
+export const CardContainer = () => {
+
+    const {lists, loading, error} = useGetTodos(); // 한 줄로 간단하게 꺼내기 !
+
+  return (
+    <div className="flex flex-col item-center p-10">
+        <Input/>
+        <div className='m-auto grid gap-10 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4'>  
+          { lists?.map((val, idx) => (
+            <Card 
+              key={idx}
+              id={val.id}
+              content={val.content}
+              completed={val.completed}
+              />
+          ))}
+        </div>
+        
+    </div>
+  )
+}
+
+```
+
 ## 참고
 - https://kimyang-sun.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A6%AC%EB%8D%95%EC%8A%A4-%ED%88%B4%ED%82%B7%EC%9C%BC%EB%A1%9C-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-React-Redux-Toolkit
 - http://blog.hwahae.co.kr/all/tech/tech-tech/6946/
