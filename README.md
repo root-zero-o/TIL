@@ -69,8 +69,8 @@
 ----
 
 ### TypeScript
--[🛠Settings🛠](https://github.com/root-zero-o/TIL/blob/master/TypeScript/Settings.md)
--[Types](https://github.com/root-zero-o/TIL/blob/master/TypeScript/types.md)
+- [🛠Settings🛠](https://github.com/root-zero-o/TIL/blob/master/TypeScript/Settings.md)
+- [Types](https://github.com/root-zero-o/TIL/blob/master/TypeScript/types.md)
 
 
 ----
@@ -97,6 +97,8 @@
 - [Redux에서 사용되는 keywords](https://github.com/yyeonggg/TIL/blob/master/React%20Redux/keywords.md)
 - [React Redux - basic](https://github.com/yyeonggg/TIL/blob/master/React%20Redux/basic.md)
 - [Redux-thunk 기본 사용법](https://github.com/yyeonggg/TIL/blob/master/React%20Redux/Redux-thunk.md)
+- Redux toolkit
+    - [🛠Settings🛠](https://github.com/root-zero-o/TIL/blob/master/React%20Redux/Redux%20toolkit/settings.md)
 
 ----
 
