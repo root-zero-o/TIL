@@ -155,6 +155,7 @@
     - [다크 모드 만들기🌙](https://github.com/root-zero-o/TIL/blob/master/CSS/Tailwind_CSS/darkMode.md)
     - [Group & Peer modifier](https://github.com/root-zero-o/TIL/blob/master/CSS/Tailwind_CSS/peer_group.md)
     - [삼항연산자 사용하기](https://github.com/root-zero-o/TIL/blob/master/CSS/Tailwind_CSS/%EC%82%BC%ED%95%AD%EC%97%B0%EC%82%B0%EC%9E%90_%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+    - [pixel 프리셋 설정하기](https://github.com/root-zero-o/TIL/blob/master/CSS/Tailwind_CSS/pixel_%ED%94%84%EB%A6%AC%EC%85%8B.md)
 
 ----
 
