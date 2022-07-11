@@ -11,14 +11,13 @@
 5. [React Redux](https://github.com/root-zero-o/TIL/blob/master/README.md#react-redux)
 6. [React-query](https://github.com/root-zero-o/TIL/blob/master/README.md#react-query)
 7. [React-Hook-Form](https://github.com/root-zero-o/TIL/blob/master/README.md#react-hook-form)
-8. [Next.js](https://github.com/root-zero-o/TIL/blob/master/README.md#next)
+8. [Next.js](https://github.com/root-zero-o/TIL/blob/master/README.md#nextjs)
 9. [Styled-Component](https://github.com/root-zero-o/TIL/blob/master/README.md#styled-component)
 10. [tailwind CSS]()
 11. [Axios](https://github.com/root-zero-o/TIL/blob/master/README.md#axios)
 12. [Flask](https://github.com/root-zero-o/TIL/blob/master/README.md#flask)
 13. [CSS](https://github.com/root-zero-o/TIL/blob/master/README.md#flask)
 14. [Git & Github](https://github.com/root-zero-o/TIL/blob/master/README.md#git--github)
-15. [독서](https://github.com/root-zero-o/TIL/blob/master/README.md#flask)
 
 ----
 ### Words
