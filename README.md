@@ -5,11 +5,11 @@
 
 ### 목차
 1. [Words](https://github.com/root-zero-o/TIL/blob/master/README.md#words)
-2. [JavaScript](https://github.com/root-zero-o/TIL#javascript)
-3. [TypeScript](https://github.com/root-zero-o/TIL#TypeScript)
-4. [React](https://github.com/root-zero-o/TIL#react)
+2. [Javascript](https://github.com/root-zero-o/TIL/blob/master/README.md#javascript)
+3. [TypeScript](https://github.com/root-zero-o/TIL/blob/master/README.md#typescript)
+4. [React](https://github.com/root-zero-o/TIL/blob/master/README.md#react)
 5. [React Redux](https://github.com/root-zero-o/TIL/blob/master/README.md#redux)
-6. [React-query](https://github.com/root-zero-o/TIL#react-query)
+6. [React-query](https://github.com/root-zero-o/TIL/blob/master/README.md#react)
 7. [React-Hook-Form](https://github.com/root-zero-o/TIL#react-hook-form)
 8. [Next.js](https://github.com/root-zero-o/TIL#nextjs)
 9. [Styled-Component](https://github.com/root-zero-o/TIL/blob/master/README.md#styled-component)
