@@ -1,4 +1,4 @@
-# Apollo Server 만들기 - type
+# Apollo Server로 API 만들기 - type
 
 ## type?
 - schema definition language
