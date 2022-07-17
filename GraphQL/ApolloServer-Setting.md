@@ -78,3 +78,6 @@ server.listen().then(({ url }) => {
 ```
 npm run dev
 ```
+
+## 참고 
+- 노마드코더 'GraphQL로 영화 API 만들기'
