@@ -13,7 +13,7 @@
 7. [React-Hook-Form](https://github.com/root-zero-o/TIL/blob/master/README.md#react-hook-form)
 8. [Next.js](https://github.com/root-zero-o/TIL/blob/master/README.md#nextjs)
 9. [Styled-Component](https://github.com/root-zero-o/TIL/blob/master/README.md#styled-component)
-10. [tailwind CSS]()
+10. [GraphQL]()
 11. [Axios](https://github.com/root-zero-o/TIL/blob/master/README.md#axios)
 12. [Flask](https://github.com/root-zero-o/TIL/blob/master/README.md#flask)
 13. [CSS](https://github.com/root-zero-o/TIL/blob/master/README.md#flask)
@@ -130,6 +130,11 @@
 - [props 활용하기](https://github.com/yyeonggg/TIL/blob/master/Styled-Component/props%ED%99%9C%EC%9A%A9.md)
 
 ----
+
+### GraphQL
+- [GraphQL이란?](https://github.com/root-zero-o/TIL/blob/master/GraphQL/GraphQL%EC%9D%B4%EB%9E%80.md)
+
+---
 
 ### Axios
 - [Axios - Basic🐣](https://github.com/yyeonggg/TIL/blob/master/Axios/basic.md)
