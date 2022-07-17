@@ -1,4 +1,4 @@
-# Apollo Server 만들기 - Setting
+# Apollo Server로 API 만들기 - Setting
 
 - node repository 초기화
 ```
