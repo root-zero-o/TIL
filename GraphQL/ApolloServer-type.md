@@ -28,7 +28,7 @@ const typeDefs = gql`
 `;
 ```
 
-### Mutation
+## Mutation
 - 위의 예시에서 postTweet은 ```Argument```로 text, userId를 가진다. (postTweet을 호출할 때 text와 userId를 보내야한다.)
 - 호출 후 Tweet 타입에 해당하는 id, text, author를 받는다. <br><br>
 ![화면 캡처 2022-07-17 194958](https://user-images.githubusercontent.com/97326130/179394841-0c2c7932-fbab-4399-8c46-a64db3f7b68d.png) <br>
@@ -41,6 +41,33 @@ mutation{
   }
 }
 ```
+
+## non-nullable field
+```javascript
+// server.js
+const typeDefs = gql`
+  type User {
+    id: ID!
+    username: String!
+  }
+  type Tweet {
+    id: ID!
+    text: String!
+    author: User!
+  }
+  
+  type Query {
+    allTweets: [Tweet!]  
+    tweet(id:ID!): Tweet  
+  }
+  type Mutation {
+    postTweet(text:String!, userId : ID!): Tweet
+    deleteTweet(id: ID!): Boolean!
+  }
+`;
+```
+- type 뒤에 ```!```를 붙이면, non-nullable field가 된다.
+- non-nullable field가 된 type에 null이 오면 error가 뜬다.
 
 ## 참고
 - 노마드코더 "GraphQL로 영화 API 만들기"
