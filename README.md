@@ -138,6 +138,7 @@
 - [Apollo Server로 API 만들기 - resolvers](https://github.com/root-zero-o/TIL/blob/master/GraphQL/ApolloServer-resolvers.md)
 - Apollo Client
     - [setting](https://github.com/root-zero-o/TIL/blob/master/GraphQL/Apollo%20Client/setting.md)
+    - [Apollo Client로 전역 상태 관리하기](https://github.com/root-zero-o/TIL/blob/master/GraphQL/Apollo%20Client/%EC%A0%84%EC%97%AD%20%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC.md)
 
 ---
 
