@@ -31,4 +31,4 @@ console.log(length);  // 0
 ```
 
 ## 참고
-- 모던 자바스크립트 Deep 
+- 모던 자바스크립트 Deep Dive
