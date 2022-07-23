@@ -35,6 +35,7 @@
 - [변수 쉐도잉](https://github.com/yyeonggg/TIL/blob/master/Javascript/variable_shadowing.md)
 - [생성자 함수](https://github.com/yyeonggg/TIL/blob/master/Javascript/%EC%83%9D%EC%84%B1%EC%9E%90_%ED%95%A8%EC%88%98.md)
 - [올림, 내림, 반올림](https://github.com/yyeonggg/TIL/blob/master/Javascript/Math.ceil-floor-round.md)
+- [옵셔널 체이닝](https://github.com/root-zero-o/TIL/blob/master/Javascript/optional-chaining.md)
 - [원시타입(primitive type) vs 참조타입(reference type)](https://github.com/yyeonggg/TIL/blob/master/Javascript/primitive_type_and_reference_type.md)
 - [웹 스토리지](https://github.com/yyeonggg/TIL/blob/master/Javascript/webStorage.md)
 - [이벤트 버블링과 캡처링](https://github.com/yyeonggg/TIL/blob/master/Javascript/bubbling_capturing.md)
