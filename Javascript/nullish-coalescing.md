@@ -22,3 +22,6 @@ console.log(babo);  // "babo"
 let babo = "" ?? "babo";
 console.log(babo);  // ""
 ```
+
+## 참고
+- 모던 자바스크립트 Deep Dive
