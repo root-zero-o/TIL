@@ -43,9 +43,9 @@ if (loading) {
 
 ```graphql
 const GET_TODO = gql`
-  query getTodo($todoId: String!) {  // 인수의 타입을 정해준다.(서버에서 정한 type과 동일해야 한다.)
-    todo(id: $todoId) {               // 인수를 정해준다.(스키마에서 정한 인수 이름과 동일해야 한다.)
-      id                              // 필요한 데이터를 꺼내준다
+  query getTodo($todoId: String!) {  # 인수의 타입을 정해준다.(서버에서 정한 type과 동일해야 한다.)
+    todo(id: $todoId) {               # 인수를 정해준다.(스키마에서 정한 인수 이름과 동일해야 한다.)
+      id                              # 필요한 데이터를 꺼내준다
       text
       done
       location
