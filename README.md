@@ -72,6 +72,7 @@
 ### TypeScript
 - [🛠Settings🛠](https://github.com/root-zero-o/TIL/blob/master/TypeScript/Settings.md)
 - [Types](https://github.com/root-zero-o/TIL/blob/master/TypeScript/types.md)
+- [튜플(tuple)](https://github.com/root-zero-o/TIL/blob/master/TypeScript/Tuple.md)
 
 
 ----
