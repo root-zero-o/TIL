@@ -60,7 +60,8 @@ interface Board<T>{
 }
 ```
 
-- JSX arrow function
+- JSX arrow function 
+
 HTML태그가 아니라 제네릭이라는 힌트를 주기 위해 ```extends {}```를 사용한다.
 
 ```typescript
