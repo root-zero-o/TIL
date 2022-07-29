@@ -23,6 +23,7 @@
 ### Words
 - [동기&비동기](https://github.com/root-zero-o/TIL/tree/master/Words)
 - [CSR, SSR, SSG](https://github.com/root-zero-o/TIL/blob/master/Words/CSR%2CSSR%2CSSG.md)
+- [객체지향 프로그래밍](https://github.com/root-zero-o/TIL/blob/master/Words/OOP.md)
 
 ----
 
