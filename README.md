@@ -130,6 +130,7 @@
 - [getStaticProps 사용해서 SSG 구현하기](https://github.com/root-zero-o/TIL/blob/master/Next.js/getStaticProps.md)
 - [getServerSideProps 사용해서 SSR 구현하기](https://github.com/root-zero-o/TIL/blob/master/Next.js/getServerSideProps.md)
 - [.env.local(환경변수) 다루기](https://github.com/root-zero-o/TIL/blob/master/Next.js/.env.local.md)
+- [<Script>](https://github.com/root-zero-o/TIL/blob/master/Next.js/Script.md)
 
 ----
 
