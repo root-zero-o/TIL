@@ -72,7 +72,25 @@ function MyApp({ Component, pageProps }: AppProps) {
 export default MyApp;
 ```
 
-5. typescript 사용해서 props 넘겨주기
+5. .babelrc
+```javascript
+{
+  "presets": ["next/babel"],
+  "plugins": [
+    [
+      "styled-components",
+      {
+        "ssr": true,
+        "displayName": true,
+        "preprocess": false
+      }
+    ]
+  ]
+}
+```
+
+
+6. typescript 사용해서 props 넘겨주기
 ```typescript
 const StH2 = styled.h2<{ color: string }>`  // props의 타입을 정해준다.
   font-size: 40px;
