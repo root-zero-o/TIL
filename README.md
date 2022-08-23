@@ -172,6 +172,7 @@
     - [flex grow&shrink 조절하기](https://github.com/root-zero-o/TIL/blob/master/CSS/Tailwind_CSS/flex-grow-and-shrink.md)
 - [Styled-Components](https://github.com/root-zero-o/TIL/tree/master/CSS/Styled-Components)
     - [props 활용하기](https://github.com/root-zero-o/TIL/blob/master/CSS/Styled-Components/props%ED%99%9C%EC%9A%A9.md)
+    - [Next.js + Styled-Components 세팅하기](https://github.com/root-zero-o/TIL/blob/master/CSS/Styled-Components/Next.js%20Setting.md)
 
 ----
 
