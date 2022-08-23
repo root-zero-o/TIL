@@ -162,6 +162,7 @@
 - [box-shadow](https://github.com/yyeonggg/TIL/blob/master/CSS/box-shadow.md)
 - [position: absolute 가운데 두기](https://github.com/yyeonggg/TIL/blob/master/CSS/position:%20absolute%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EB%91%90%EA%B8%B0.md)
 - [이모지 색 변경하기](https://github.com/yyeonggg/TIL/blob/master/CSS/%EC%9D%B4%EB%AA%A8%EC%A7%80%20%EC%83%89%20%EB%B3%80%EA%B2%BD.md)
+- [reset & normalize](https://github.com/root-zero-o/TIL/blob/master/CSS/reset%20%26%20normalize.md)
 - [Tailwind CSS]()
     - [🛠Settings🛠](https://github.com/root-zero-o/TIL/blob/master/CSS/Tailwind_CSS/Settings.md)
     - [Customizing](https://github.com/root-zero-o/TIL/blob/master/CSS/Tailwind_CSS/customizing.md)
