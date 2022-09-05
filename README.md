@@ -27,6 +27,7 @@
 
 ### JavaScript
 - [기본 파라미터(Default Parameter)](https://github.com/root-zero-o/TIL/blob/master/Javascript/%EA%B8%B0%EB%B3%B8%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0.md)
+- [객체 변경 방지](https://github.com/root-zero-o/TIL/blob/master/Javascript/%EA%B0%9D%EC%B2%B4%20%EB%B3%80%EA%B2%BD%20%EB%B0%A9%EC%A7%80.md)
 - [단축 평가 논리 계산법](https://github.com/root-zero-o/TIL/blob/master/Javascript/short-circuit_evaluation.md)
 - [문자열에서 문자 가져오기](https://github.com/root-zero-o/TIL/blob/master/Javascript/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C%20%EB%AC%B8%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
 - [반복문](https://github.com/root-zero-o/TIL/blob/master/Javascript/%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
