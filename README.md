@@ -40,6 +40,7 @@
 - [이벤트 버블링과 캡처링](https://github.com/yyeonggg/TIL/blob/master/Javascript/bubbling_capturing.md)
 - [정규식 1 - 정규식이란?](https://github.com/yyeonggg/TIL/blob/master/Javascript/%EC%A0%95%EA%B7%9C%EC%8B%9D1.md)
 - [프로토타입](https://github.com/yyeonggg/TIL/blob/master/Javascript/prototype.md)
+- [프로퍼티 어트리뷰트](https://github.com/root-zero-o/TIL/blob/master/Javascript/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%20%EC%96%B4%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8.md)
 - [함수선언식 vs 함수표현식](https://github.com/yyeonggg/TIL/blob/master/Javascript/%ED%95%A8%EC%88%98%EC%84%A0%EC%96%B8%EC%8B%9D%20vs%20%ED%95%A8%EC%88%98%ED%91%9C%ED%98%84%EC%8B%9D.md)
 - [🤷‍♂️헷갈리는 연산자(Operators) 모음](https://github.com/yyeonggg/TIL/blob/master/Javascript/operators.md)
 - [화살표 함수](https://github.com/yyeonggg/TIL/blob/master/Javascript/%ED%99%94%EC%82%B4%ED%91%9C_%ED%95%A8%EC%88%98.md)
