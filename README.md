@@ -198,3 +198,4 @@
 ### webpack
 - [개념](https://github.com/root-zero-o/TIL/blob/master/webpack/%EA%B0%9C%EB%85%90.md)
 - [NPM 명령어](https://github.com/root-zero-o/TIL/blob/master/webpack/npm%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+- [연습하기](https://github.com/root-zero-o/TIL/blob/master/webpack/%EC%97%B0%EC%8A%B5%ED%95%98%EA%B8%B0.md)
