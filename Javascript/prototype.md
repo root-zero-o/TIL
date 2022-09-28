@@ -50,5 +50,48 @@ person1.__proto__.__proto__
     - 사용자 정의 생성자 함수 : 함수 객체를 생성하는 시점인 런타임 이전에 JS 엔진에 의해 먼저 실행되어 생성된다.
     - 빌트인 생성자 함수 : 전역 객체가 생성되는 시점에 생성된다.(객체 생성 이전에 생성자 함수와 프로토타입이 존재한다. 👉 객체 생성하면 프로토타입은 생성된 객체의 [[prototype]] 내부 슬롯에 할당된다.
 
+## 5. 프로토타입 체인
+- 자바스트립트가 객체지향 프로그래밍의 ```상속```을 구현하는 매커니즘
+- 객체의 프로퍼티에 접근하려고 할 때, 해당 객체에 그 프로퍼티가 없다면 [[prototype]] 내부 슬롯의 참조를 따라 ```자신의 부모 역할을 하는 프로퍼티를 순차적으로 검색```하는 것
+- ```Object.prototype```
+    - 프로토타입 체인의 종점(end of prototype chain)
+    - Object.prototype의 프로토타입은 ```null```
+    - Object.prototype에서도 프로퍼티를 검색할 수 없는 경우 ```undefined``` 반환(에러 발생하지 않음!)
+
+## 6. 오버라이딩, 프로퍼티 섀도잉
+```javascript
+const Person = (function(){
+  function(){
+    this.name = name;
+  }
+  
+  // 프로토타입 메서드
+  Person.prototype.sayHello = function(){
+    console.log(`Hi! My name is ${this.name}`);
+  };
+  
+  return Person;
+  }());
+  
+const me = new Person('Lee');
+
+// 인스턴스 메서드
+me.sayHello = function(){
+  console.log('어쩌구 저쩌구')
+}
+
+// 인스턴스 메서드 호출. 프로토타입 메서드는 인스턴스 메서드에 의해 가려진다.
+me.sayHello();  // 어쩌구 저쩌구
+
+```
+
+- 프로퍼티
+    - 프로토타입 프로퍼티 : 프로토타입이 소유한 프로퍼티(메서드 포함)
+    - 인스턴스 프로퍼티 : 인스턴스가 소유한 프로퍼티
+- 오버라이딩
+    - 프로토타입 프로퍼티와 같은 이름의 프로퍼티를 인스턴스에 추가하면 프로토타입 프로퍼티를 덮어쓰는 것이 아니라, ```인스턴스 프로퍼티로 추가```한다.
+    - 오버라이딩으로 인해 기존 프로토타입 메서드가 가려지는 것을 ```프로퍼티 셰도잉```이라 한다. 
+    - 프로토타입 프로퍼티는 하위 객체에서 변경 또는 삭제할 수 없다.
+
 ## 참고
 - https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/Object_prototypes
